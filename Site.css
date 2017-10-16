@@ -1,0 +1,35 @@
+﻿body {
+}
+
+p {
+    color: goldenrod;
+    font-family: 'Comic Sans MS';
+    font-size: 14px;
+}
+
+.funkyFresh{
+    color: burlywood;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+}
+
+#theThird{
+    color: firebrick;
+}
+
+
+/*GROUPING STYLES*/
+h1, h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+/*ALL ORDERED ITEMS IN A LIST - CLASS TAKES PRESECEDENCE*/
+ol li{
+    /*background-color: antiquewhite;*/
+    font-size: 18px;
+    text-decoration: wavy;
+}
+body{
+    background-image: http://www.sepeb.com/pittsburgh-penguins-logo-pictures/pittsburgh-penguins-logo-pictures-006.jpg
+}
